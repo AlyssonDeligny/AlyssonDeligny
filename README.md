@@ -35,7 +35,7 @@ I am seeking a company where I can develop my skills and contribute to exciting 
 ### 💬 **IRC Web Chat** – Instant messaging web app  
 - **Description**: A real-time chat service inspired by IRC, enabling users to communicate seamlessly.  
 - **Technologies**: **MERN Stack** (MongoDB, NestJS, Socket.IO, React)  
-- **GitHub Repo**: [Add Link Here]  
+- **GitHub Repo**: [AlyssonDeligny/Chat-On](https://github.com/AlyssonDeligny/Chat-On)
 
 ### ✅ **ToDo App** – Task management application  
 - **Description**: A simple to-do list app built with React for efficient task tracking.  
