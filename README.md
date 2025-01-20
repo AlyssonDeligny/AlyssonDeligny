@@ -8,8 +8,20 @@
 - Other: Git, Linux
 
 ## 🚀 Projects
-- 🕹 [CivilisationWar](https://github.com/GamesEdition/CivilisationWar) - A 2D strategy game in Java
-- ✅ [ToDo App](https://github.com/AlyssonDeligny/ToDoApp) - Task management app in React
+### 🐶 **PetCare** – Web application for pet care management  
+- **Description**: A platform that allows pet owners to track medical care, veterinary appointments, and treatments.  
+- **Technologies**: **MERN Stack** (MongoDB, Express.js, React, Node.js)  
+- **GitHub Repo**: [AlyssonDeligny/PetCare](https://github.com/AlyssonDeligny/PetCare)
+
+### 💬 **IRC Web Chat** – Instant messaging web app  
+- **Description**: A real-time chat service inspired by IRC, enabling users to communicate seamlessly.  
+- **Technologies**: **MERN Stack** (MongoDB, NestJS, Socket.IO, React)  
+- **GitHub Repo**: [Add Link Here]  
+
+### ✅ **ToDo App** – Task management application  
+- **Description**: A simple to-do list app built with React for efficient task tracking.  
+- **Technologies**: React  
+- **GitHub Repo**: [AlyssonDeligny/ToDoApp](https://github.com/AlyssonDeligny/ToDoApp)  
 
 📫 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/alysson-deligny)
 
