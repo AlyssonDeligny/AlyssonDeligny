@@ -3,15 +3,15 @@
 🎓 Student at Epitech | 💻 Aspiring Software Developer | 🚀 Learning MERN Stack
 
 ---
+# 🧐 About Me  
 
-## 🧐 About Me  
-I am currently a **pre-MSc student at Epitech**, transitioning into **web and software development**.  
-With a background in life sciences and experience as a veterinary assistant, I decided to dive into the tech world to combine my analytical mindset with my passion for development.  
+I am currently a pre-MSc student at **Epitech**, transitioning into the tech industry with a strong interest in **web development and IT project management**.  
 
-My goal is to acquire strong technical skills through hands-on projects and programming challenges.  
+With a background in **life sciences** and experience as a **veterinary assistant**, I bring **rigor, organization, and adaptability** to my work. Throughout my training, I have been developing my skills in **JavaScript, Node.js, React, and MongoDB**, while also exploring **project coordination, Agile methodologies, and team collaboration**.  
 
-🎯 **Currently looking for an apprenticeship**, starting **immediately** until **September 2027**.  
-I am seeking a company where I can develop my skills and contribute to exciting web and software projects.  
+## 🎯 Looking for an Apprenticeship  
+I am currently seeking an **apprenticeship starting immediately until September 2027** in a company where I can **deepen my technical expertise in web development** while also gaining exposure to **project management and team coordination**.  
+
 
 ## 🔧 Technologies & Tools
 
